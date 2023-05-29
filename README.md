@@ -45,3 +45,9 @@ Simulation---> Configuration Parameters---> Solver details---> Fixed-step size.
 
 
 #### NOTE: Please don't make changes to any editable files except the ones mentioned above.
+
+#### If you use CAVLAB for your research or teaching purposes, please cite it using the following reference:
+
+Ahmed, A., Javed, S. B., Uppal, A. A., & Iqbal, J. (2023). Development of CAVLAB—A Control-Oriented MATLAB Based Simulator for an Underground Coal Gasification Process. Mathematics, 11(11), 2493. doi: 10.3390/math11112493
+
+
